@@ -1,0 +1,30 @@
+ .body{
+    padding-top: 270px !important;
+ }
+
+ h3{
+    text-align: center !important;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100 !important;
+    font-size:60px !important;
+    font-style:normal !important;
+ }
+
+ .home {
+    max-width: 100%;
+    margin: 0 auto;
+    animation: home-appear 1s ease-out forwards;
+  }
+  
+  @keyframes home-appear {
+    from {
+      opacity: 0;
+      transform: translateY(3rem);
+    }
+  
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
