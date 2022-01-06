@@ -2,7 +2,7 @@ If need help please, don't hesitate to send me a mail 👉 huge.fuze@gmail.com
 
 Thank you for coming by my repo and please don't forget to give this repo a star if you find it usefull.
 
-❤️Manny thanks!❤️
+❤️Manny thanks!❤️  
 
 ![New Api](https://user-images.githubusercontent.com/19228713/147563031-83859b4a-c3b5-497f-8874-c6025bbf7bed.png)
 # Getting Started with Create React App
